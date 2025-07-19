@@ -24,7 +24,7 @@
   Create or join rooms to collaborate securely and independently.
 
 - 💡 **Intuitive & Responsive UI**  
-  Clean and minimal design built with React and Tailwind, optimized for all screen sizes.
+  Clean and minimal design built with React 
 
 ## 🖼️ Screenshots
 
