@@ -24,7 +24,9 @@
   Create or join rooms to collaborate securely and independently.
 
 - 💡 **Intuitive & Responsive UI**  
-  Clean and minimal design built with React 
+  Clean and minimal design built with React
+  
+  ---
 
 ## 🖼️ Screenshots
 
@@ -36,6 +38,7 @@
 <img width="1912" height="951" alt="3" src="https://github.com/user-attachments/assets/0eb212e5-97e0-465d-a9b5-d1b35dbe2aec" />
 
 
+  ---
 
 ## 🛠️ Tech Stack
 
@@ -46,5 +49,5 @@
 
   ---
 
-### ❤️ Made with love by Ayush
+###  Made with ♥️ by Ayush
 
